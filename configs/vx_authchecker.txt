@@ -1,0 +1,5 @@
+- TR: - - - - - - - - - - - -
+Steam Doğrulamanısını Geçemediniz, lütfen tekrar deneyin
+
+- EN: - - - - - - - - - - - -
+You couldn't pass the steam authenticator, please try again later
