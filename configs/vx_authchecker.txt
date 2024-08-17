@@ -1,5 +1,8 @@
 - TR: - - - - - - - - - - - -
-Steam Doğrulamanısını Geçemediniz, lütfen tekrar deneyin
+Steam Kimliğinize ulaşamadık, lütfen tekrar deneyin.
 
 - EN: - - - - - - - - - - - -
-You couldn't pass the steam authenticator, please try again later
+Unable to access your Steam identity, please try again.
+
+
+Daha fazla bilgi // More info : vortexguys.com/discord
